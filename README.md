@@ -1,16 +1,20 @@
+![Might and Magic: Chess Royale — Key art](https://abidon.io/medias/videos/mmcr_keyart.jpg)
+
 ### Hi there 👋
 
-<!--
-**abidon/abidon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Aurélien Bidon. I'm an Online Developer at Ubisoft Paris Mobile, a studio dedicated to creating mobile video games.  
 
-Here are some ideas to get you started:
+- 🕹 Games I shipped:
+  - [Might and Magic — Chess Royale](https://www.ubisoft.com/fr-fr/game/might-and-magic-chess-royale/) (2020)
+  - [Mighty Quest for Epic Loot](https://www.ubisoft.com/en-us/game/the-mighty-quest-for-epic-loot/) (2018)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 📫 How to reach me:
+  - ![](https://img.icons8.com/ios-glyphs/20/000000/linkedin.png) [Linkedin](https://www.linkedin.com/in/abidon/)
+  - ![](https://img.icons8.com/ios-glyphs/20/000000/secured-letter.png) [E-mail](mailto:bidon.aurelien+contact@gmail.com)
+
+
+- 🎵 Also a beatmaker and music producer on my spare time:
+  - ![](https://img.icons8.com/ios-glyphs/20/000000/apple-music.png) [Apple Music](https://music.apple.com/fr/artist/aureo/1449378126)
+  - ![](https://img.icons8.com/ios-glyphs/20/000000/spotify.png) [Spotify](https://open.spotify.com/artist/1Xxy1uFnQChzasfQASvAXd)
+  - ![](https://img.icons8.com/ios-glyphs/20/000000/youtube-play.png) [YouTube Music](https://www.youtube.com/channel/UCgaLvYmvr8MNU4HiD4IY4Hg)
