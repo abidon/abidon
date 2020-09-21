@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-My name is Aurélien Bidon. I'm an Online Developer at Ubisoft Paris Mobile, a studio dedicated to creating mobile video games.  
+My name is Aurélien Bidon. I'm an Online Developer at Ubisoft Paris Mobile, a studio dedicated to the creation of mobile video games.  
 
 - 🕹 Games I shipped:
   - [Might and Magic — Chess Royale](https://www.ubisoft.com/fr-fr/game/might-and-magic-chess-royale/) (2020)
