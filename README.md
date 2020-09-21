@@ -1,11 +1,12 @@
-![Might and Magic: Chess Royale — Key art](https://abidon.io/medias/videos/mmcr_keyart.jpg)
+![Might and Magic: Chess Royale — Key art](https://cdna.artstation.com/p/assets/images/images/027/159/190/4k/marine-coiffard-marine-coiffard-chess-royale-mightandmagic-heroesreborn-marinka.jpg)
+###### Key art of "Might and Magic: Chess Royale" by [Marine Coiffard](https://www.artstation.com/marinka)
 
 ### Hi there 👋
 
 My name is Aurélien Bidon. I'm an Online Developer at Ubisoft Paris Mobile, a studio dedicated to the creation of mobile video games.  
 
 - 🕹 Games I shipped:
-  - [Might and Magic — Chess Royale](https://www.ubisoft.com/fr-fr/game/might-and-magic-chess-royale/) (2020)
+  - [Might and Magic: Chess Royale](https://www.ubisoft.com/fr-fr/game/might-and-magic-chess-royale/) (2020)
   - [Mighty Quest for Epic Loot](https://www.ubisoft.com/en-us/game/the-mighty-quest-for-epic-loot/) (2018)
 
 
