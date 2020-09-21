@@ -1,4 +1,4 @@
-![Might and Magic: Chess Royale — Key art](https://cdna.artstation.com/p/assets/images/images/027/159/190/4k/marine-coiffard-marine-coiffard-chess-royale-mightandmagic-heroesreborn-marinka.jpg)
+![Might and Magic: Chess Royale — Key art](https://abidon.io/medias/videos/mmcr_keyart.jpg)
 ###### Key art of "Might and Magic: Chess Royale" by [Marine Coiffard](https://www.artstation.com/marinka)
 
 ### Hi there 👋
